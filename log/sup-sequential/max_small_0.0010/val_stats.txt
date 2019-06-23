@@ -1,0 +1,1 @@
+loss=0.53212 old_f1_micro= 0.79474 old_f1_macro= 0.77321 new_f1_micro= 0.76973 new_f1_macro= 0.75011
